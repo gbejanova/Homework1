@@ -1,0 +1,28 @@
+"Proqramçı" və "Developer" (tərcümə: proqramçı və inkişafçı) terminləri əsasında dil fərqi ilə olunur və müstəqil olaraq istifadə olunan dillər və ya texnologiyadan asılı olaraq qurulmuş idarəetmə fəaliyyətlərini təyin edir. Lakin, bu terminlər fərqli layihələrdə və fərqli şirkətlərdə fərqli mənalara gələ bilər. Əsasən, hər iki termin də proqram təminatının hazırlanması vəziyyətində istifadə olunur, lakin fərqli mətnlərdə və təsvirdə. 1. **Programist (Programmer):** - "Programist" termini daha çox dilin (proqramlaşdırma dilinin) vurğulanmasına vurğu edir. - Proqram kodlarını yazmaqla məşğuldur. - Proqram təminatının əsas sahibi, test etmək və səhv tapmaq üçün qabaql və ya proqramlaşdırma dillərində bacarığa malikdir. 2. **Developer (İnkişafçı):**
+
+
+
+Paradigmalar.
+
+Bir proqramın paradigması, bir proqramın necə açıqlanması və təyin edilməsi proqramı təşkilatın konseptuallıq və orqan quruluşunu ifadə edir. İşlədilmiş əsas metodolojiyə və nizam-intizamı təyin etmək üçün bu paradiqmalardan biri seçilir. 
+
+
+Bəzi məşhur proqramlaşdırma paradiqmalarına qısa girişlər:
+Prosedur proqramlaşdırması:
+Prosedur proqramlaşdırma, proqramın verilənləri manipulyasiya edən prosedurlar və ya funksiyalar ətrafında qurulduğu bir paradiqmadır. O, addım-addım təlimatlara diqqət yetirir və funksiyaların istifadəsi vasitəsilə kodun təkrar istifadəsini vurğulayır. C və Paskal bu paradiqmaya əməl edən dillərə misaldır.
+
+Obyekt yönümlü proqramlaşdırma (OOP):
+Obyekt yönümlü proqramlaşdırma, siniflərin nümunələri olan obyektlər anlayışı ətrafında fırlanır. O, kodu məlumat və davranışı əhatə edən obyektlərə təşkil edir. OOP modulluğu, təkrar istifadəni təşviq edir və irsiyyət, polimorfizm və inkapsulyasiya kimi anlayışlara imkan verir. Java, C++ və Python OOP-ni dəstəkləyən məşhur dillərdir.
+
+Funksional Proqramlaşdırma (FP):
+Funksional Proqramlaşdırma hesablamaya riyazi funksiyaların qiymətləndirilməsi kimi yanaşır və vəziyyəti və dəyişən verilənləri dəyişməkdən çəkinir. Dəyişməzliyi, saf funksiyaları və daha yüksək səviyyəli funksiyaları vurğulayır. FP dilləri ifadələrin qiymətləndirilməsi kimi hesablamaları ifadə etməyə diqqət yetirir. Haskell, Lisp və Erlanq bu paradiqmanı izləyən dillərə misaldır.
+
+Deklarativ proqramlaşdırma:
+Deklarativ proqramlaşdırma, ona nail olmaq üçün təfərrüatlı addımları müəyyən etməkdənsə, istədiyiniz nəticəni təsvir etməyə diqqət yetirir. Bu, necə deyil, nəyin hesablanması ilə məşğul olur. Verilənlər bazası sorğusu üçün istifadə edilən SQL deklarativ dilin bariz nümunəsidir.
+
+Hadisəyə əsaslanan proqramlaşdırma:
+Hadisəyə əsaslanan proqramlaşdırma hadisələr və hadisə idarəçiləri konsepsiyasına əsaslanır. Bu, hadisələrə və bu hadisələrə reaksiyalara əsaslanan proqramın axınının proqramlaşdırılmasını əhatə edir. GUI proqramlaşdırma və asinxron proqramlaşdırma tez-tez bu paradiqmadan istifadə edir. JavaScript, hadisələrə əsaslanan proqramlaşdırmanı nəzərəçarpacaq dərəcədə dəstəkləyən bir dildir.
+
+Paralel proqramlaşdırma:
+Paralel proqramlaşdırma eyni vaxtda işləyən və bir-biri ilə potensial olaraq qarşılıqlı əlaqədə olan birdən çox tapşırığın idarə edilməsi ilə əlaqədardır. O, paylaşılan resursların idarə edilməsinə, sinxronizasiyaya və paralel proseslər və ya mövzular arasında əlaqəyə diqqət yetirir. Java və Go kimi dillər paralel proqramlaşdırma üçün daxili dəstək verir.
+
